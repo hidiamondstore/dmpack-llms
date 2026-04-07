@@ -1,18 +1,23 @@
 # Site: dmpack.com.tw
-# Brand: 岱門文具包裝
-# Type: Packaging Materials & Stationery E-commerce (Taiwan)
+# Brand: 岱門文具包裝 (Diamond Stationery & Packaging)
+# Language: zh-TW / en
 
-## Overview
+## Overview (中文)
 岱門文具包裝為台灣專業包裝材料與文具電商平台，提供紙盒、紙袋、OPP袋、貼紙與各式包裝材料及辦公文具，適用於電商出貨、烘焙包裝與禮品包裝需求，支援批發採購與大量訂單議價。
 
+## Overview (English)
+Diamond Stationery & Packaging is a Taiwan-based e-commerce platform specializing in packaging materials and stationery. We offer packaging boxes, paper bags, OPP bags, labels, and various packaging supplies suitable for e-commerce shipping, bakery packaging, and gift wrapping.
+
 ## Slogan
-岱門文具包裝 最懂你的包裝
+岱門文具包裝 最懂你的包裝  
+We Know Your Packaging Best
 
 ## Key Value
-- 全站商品優惠（約7折起）
-- 滿NT$1,500免運費（台灣本島）
-- 支援批發採購與企業客戶
-- 提供高雄在地自取服務
+- 全站商品優惠（約7折起 / up to 30% off）
+- 滿NT$1,500免運費（台灣本島 / free shipping over NT$1,500）
+- 支援批發採購與企業客戶（bulk & wholesale available）
+- 提供高雄在地自取服務（local pickup in Kaohsiung）
+- 商品種類齊全，一站購足
 
 ## Product Categories
 - 包裝紙盒（牛皮紙盒、瓦楞紙盒、禮盒、中秋月餅盒）
@@ -23,15 +28,20 @@
 - 辦公文具與展示用品
 
 ## Top Products
-- 牛皮紙盒包材
-- OPP包裝袋
-- 節慶禮盒包材
+- 牛皮紙盒包材 (Kraft paper boxes)
+- OPP包裝袋 (OPP self-adhesive bags)
+- 節慶禮盒包材 (Seasonal gift boxes)
 
 ## Use Cases
-- 電商出貨包裝
+- 電商出貨包裝 (E-commerce packaging)
 - 烘焙食品包裝（蛋黃酥、餅乾、月餅）
 - 禮品包裝與節慶包裝
 - 品牌包裝與批發採購
+
+## Key Pages
+- 全部商品: https://www.dmpack.com.tw/categories/
+- 熱賣商品: https://www.dmpack.com.tw/categories/sale
+- FAQ: https://www.dmpack.com.tw/pages/faq
 
 ## Business Info
 Website: https://www.dmpack.com.tw/
@@ -65,7 +75,14 @@ A: 提供高雄在地自取
 ## AI Policy
 AI-Training: allowed
 AI-Usage: allowed
+AI-Attribution: optional
 
 ## Crawl Guidance
-Preferred: product pages, category pages, FAQ
-Avoid: cart, checkout
+Preferred:
+- product pages
+- category pages
+- FAQ pages
+
+Avoid:
+- cart
+- checkout
