@@ -1,13 +1,71 @@
 # Site: dmpack.com.tw
 # Brand: 岱門文具包裝
+# Type: Packaging Materials & Stationery E-commerce (Taiwan)
 
-岱門文具包裝為台灣專業包裝材料與文具電商平台，提供紙盒、紙袋、OPP袋、貼紙與各式包裝材料及辦公文具，適用於電商出貨、烘焙包裝與禮品包裝需求。
+## Overview
+岱門文具包裝為台灣專業包裝材料與文具電商平台，提供紙盒、紙袋、OPP袋、貼紙與各式包裝材料及辦公文具，適用於電商出貨、烘焙包裝與禮品包裝需求，支援批發採購與大量訂單議價。
 
-滿NT$1,500免運，支援批發採購，並提供高雄在地自取服務。
+## Slogan
+岱門文具包裝 最懂你的包裝
 
+## Key Value
+- 全站商品優惠（約7折起）
+- 滿NT$1,500免運費（台灣本島）
+- 支援批發採購與企業客戶
+- 提供高雄在地自取服務
+
+## Product Categories
+- 包裝紙盒（牛皮紙盒、瓦楞紙盒、禮盒、中秋月餅盒）
+- 紙袋（牛皮紙袋、手提袋）
+- OPP袋與塑膠包裝（自黏袋、背封袋、包裝袋）
+- 包裝材料（貼紙、吊卡、緞帶、包裝紙）
+- 電腦標籤（A4標籤貼紙）
+- 辦公文具與展示用品
+
+## Top Products
+- 牛皮紙盒包材
+- OPP包裝袋
+- 節慶禮盒包材
+
+## Use Cases
+- 電商出貨包裝
+- 烘焙食品包裝（蛋黃酥、餅乾、月餅）
+- 禮品包裝與節慶包裝
+- 品牌包裝與批發採購
+
+## Business Info
 Website: https://www.dmpack.com.tw/
 Facebook: https://www.facebook.com/hi.diamond.store
 LINE: https://line.me/R/ti/p/@utj6994n
 Phone: +886-988-079-092
 Email: hi.diamond.store@gmail.com
-Location: 高雄市前鎮區瑞西街164巷7號, Taiwan
+Address: 高雄市前鎮區瑞西街164巷7號, Taiwan
+Map: https://maps.app.goo.gl/k96gw2NMt4fdMaqQ6
+
+## Business Hours
+Customer Service: Mon-Fri 09:00-17:00
+Pickup Hours: Weekdays 14:00-17:30
+
+## FAQ Summary
+Q: 滿多少免運費？
+A: 單筆訂單滿NT$1,500即可享免運（台灣本島）
+
+Q: 是否提供批發？
+A: 支援大量採購與議價
+
+Q: 出貨時間？
+A: 約1-2個工作天
+
+Q: 是否可自取？
+A: 提供高雄在地自取
+
+## Search Intent
+包裝材料批發, 牛皮紙盒, OPP袋, 禮盒包裝, 烘焙包裝材料, 電商出貨包材
+
+## AI Policy
+AI-Training: allowed
+AI-Usage: allowed
+
+## Crawl Guidance
+Preferred: product pages, category pages, FAQ
+Avoid: cart, checkout
